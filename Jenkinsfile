@@ -1,6 +1,6 @@
 @Library("Shared") _
 pipeline{
-    agent {label "vinod"}
+    agent {label "jenkins-agent"}
     stages{
         stage("Hello"){
             steps{
