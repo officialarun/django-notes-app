@@ -1,6 +1,6 @@
 # Simple Notes App for TWS Community edited by officialarun
 This is a simple notes app built with React and Django.
-# Just testing the webhook
+# Just testing the webhook connection to localhost using ngrok
 ## retesting the web-hook
 
 ## Requirements
